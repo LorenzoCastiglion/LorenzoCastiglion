@@ -29,8 +29,8 @@ I'm an indie full-stack developer and Graphic Designer building my version of th
 
 
 ### 📊 Stats
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lorenzo's Top Languages" src="https://lorenzocastiglion-github-readme-stats.vercel.app/api/top-langs/?username=lorenzocastiglion&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
-![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzocastiglion&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
