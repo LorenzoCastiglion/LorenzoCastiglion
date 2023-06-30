@@ -29,10 +29,7 @@ I'm an indie full-stack developer and Graphic Designer building my version of th
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ### 📊 Stats
-<a href="https://github.com/lorenzocastiglion/lorenzocastiglion.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzocastiglion&repo=lorenzocastiglion.github.io&theme=buefy" />
-</a>
-
+<a href="https://github.com/lorenzocastiglion/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzocastiglion&layout=compact&theme=buefy&hide_border=true" /></a>
 #
 
 
