@@ -6,7 +6,7 @@
 
 I'm an indie full-stack developer and Graphic Designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way up.
 
-My portfolio: <a href="https://lorenzocastiglion.it" target="_blank">lorenzocastiglion</a>
+My portfolio: <a href="https://lorenzocastiglion.it" >lorenzocastiglion</a>
  
 
 ---
